@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Google-sans", sans-serif;
+  font-family: "Open-sans", sans-serif;
   color: #272829;
 }
 
@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Google", sans-serif;
+  font-family: "Open-sans", sans-serif;
 }
 
 /*--------------------------------------------------------------
